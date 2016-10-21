@@ -7,6 +7,8 @@
 
 ### Standing up Elasticsearch
 
+Must be in the **elasticsearch** root directory.
+
 ```
 bin/elasticsearch -Des.node.name=Skywalker
 bin/elasticsearch -Des.node.name=Kenobi
